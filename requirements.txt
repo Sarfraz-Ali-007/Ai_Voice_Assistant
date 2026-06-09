@@ -1,0 +1,10 @@
+streamlit
+audio-recorder-streamlit
+langchain
+langgraph
+langchain-groq
+openai-whisper
+duckduckgo-search
+gtts
+python-dotenv
+pydub
